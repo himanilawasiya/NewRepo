@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+.heading{
+    text-align: center;
+}
+table,
+th,
+td {
+    text-align: start;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th,td {
+    font-size: 14px;
+    width: 25%;
+    padding: 7px;
+}
+th {
+    background: rgba(226, 226, 226, 0.699);
+}
+table {
+    margin: auto;
+}
+h3 {
+    margin: 4px 0;
+}
+h1 {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0;
+}
+p {
+    margin: 5px 0;
+}

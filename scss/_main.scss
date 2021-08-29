@@ -1,0 +1,7 @@
+.list-primary{
+    @include center();
+    list-style: none;
+    background: $secondary-color;
+    color: $primary-color;
+
+}
